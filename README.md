@@ -1,0 +1,2 @@
+# IAUMG
+proyecto de ia
